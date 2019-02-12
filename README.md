@@ -13,4 +13,4 @@ management - Core of the application. DragAndDrop, undo,redo functionalities, va
 
 Board - backend datastructure for updating the movements.
 
-
+![alt text](https://github.com/tnaimisha/ChessGameApplication/blob/master/board.png)
